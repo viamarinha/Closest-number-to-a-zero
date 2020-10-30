@@ -16,6 +16,7 @@ public class Main {
 		System.out.println("Mazda1");
 		System.out.println("micra");
 
+		System.out.println("Tolik");
 	}
 
 	private static int[] getAnumbers() {
