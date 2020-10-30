@@ -15,7 +15,6 @@ public class Main {
 	.ifPresent(System.out::println);
 		System.out.println("Mazda1");
 		System.out.println("micra");
-		System.out.println("dodge");
 
 	}
 
