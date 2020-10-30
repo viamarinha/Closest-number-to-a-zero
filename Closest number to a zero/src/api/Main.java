@@ -13,7 +13,7 @@ public class Main {
 	Arrays.stream(toto).filter(a -> a !=0)
 	.reduce((a, b)-> abs(a) > abs(b)? b : abs(a) == abs(b)? Math.min(a, b) : a)
 	.ifPresent(System.out::println);
-		
+		System.out.println("Mazda1");
 
 	}
 
