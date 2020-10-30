@@ -14,6 +14,7 @@ public class Main {
 	.reduce((a, b)-> abs(a) > abs(b)? b : abs(a) == abs(b)? Math.min(a, b) : a)
 	.ifPresent(System.out::println);
 		System.out.println("Mazda1");
+		System.out.println("micra");
 
 	}
 
